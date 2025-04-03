@@ -16,6 +16,7 @@ For the latest version with improved performance, better generalization, and a l
 
 While deprecated, this model:
 - Remains fully functional
+- Outperforms baseline models for lung segmentation
 - Can serve as a **lightweight baseline**
 - Offers a great **starting point** for airway segmentation tasks or model prototyping
 
