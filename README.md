@@ -10,6 +10,8 @@ For the latest version with improved performance, better generalization, and a l
 
 👉 **[AirSeg: Learnable Interconnected Attention Framework for Robust Airway Segmentation](https://github.com/chetana348/AirSeg-Learnable-Interconnected-Attention-Framework-for-Robust-Airway-Segmentation)**
 
+✅ If you are looking for lung segmentation, you are at the right place. 
+
 ---
 
 ## ✅ Why Keep This Repo?
